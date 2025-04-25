@@ -31,7 +31,7 @@
   <!-- - [Useful resources](#useful-resources) -->
 - [Built with](#built-with)
 - [Features](#features)
-- [Contact](#contact)
+- [Author](#author)
 <!-- - [Acknowledgements](#acknowledgements) -->
 
 <!-- OVERVIEW -->
