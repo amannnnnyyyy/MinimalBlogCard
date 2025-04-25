@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://680b71af050e59f024d93803--minimal-blog-aman.netlify.app/">
+    <a href="https://680b77b9555040ef0e4a0bd6--minimal-blog-aman.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://680b71af050e59f024d93803--minimal-blog-aman.netlify.app/">
+    <a href="https://680b77b9555040ef0e4a0bd6--minimal-blog-aman.netlify.app/">
       Solution
     </a>
     <span> | </span>
