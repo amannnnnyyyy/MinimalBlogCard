@@ -47,6 +47,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding-bottom: 15px;
 }
 
 .card-title {
@@ -79,7 +80,7 @@ body {
 }
 
 .line {
-    height: 2px;
+    height: 1px;
     width: 100%;
     background-color: #E5EAF0;
 }
