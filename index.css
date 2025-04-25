@@ -34,8 +34,7 @@ body {
 }
 
 .card-image img {
-    /* width: 88.425%; */
-    width: 336px;
+    width: 91.305%;
     height: 152px;
     display: block;
     border-radius: 8px;
@@ -90,17 +89,4 @@ body {
     font-size: 0.85em;
     color: #394150;
     text-align: left; 
-}
-
-
-@media (max-width: 768px) {
-    .blog-card {
-        flex-direction: column;
-    }
-
-    .card-image {
-        width: 100%;
-        flex-basis: auto;
-        height: 200px;
-    }
 }
