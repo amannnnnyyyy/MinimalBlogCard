@@ -80,4 +80,4 @@ This section should list any articles or add-ons/plugins that helps you to compl
 ## Author
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
-- GitHub [@your-username](https://github.com/amannnnnyyyy)
+- GitHub [@amannnnnyyyy](https://github.com/amannnnnyyyy)
